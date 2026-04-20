@@ -1,7 +1,7 @@
 ## El Ramirez 🔯
-### Desarrollador(a) en formación | Bootcamp [Transformación Digital para la Docencia Técnica]
+### Docente informático | Bootcamp [Transformación Digital para la Docencia Técnica]
 
-¡Bienvenido/a a mi perfil! Soy una persona apasionada por la tecnología y actualmente estoy transformando mi carrera a través de un entrenamiento intensivo en desarrollen competencias digitales avanzadas, integrando inteligencia artificial, automatización y desarrollo web en sus prácticas pedagógicas..
+¡Bienvenido/a a mi perfil! Soy una persona apasionada por la tecnología y actualmente estoy transformando mi carrera a través de un entrenamiento intensivo en desarrollar competencias digitales avanzadas, integrando inteligencia artificial, automatización y desarrollo web en sus prácticas pedagógicas..
 
 ---
 
